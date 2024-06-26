@@ -1,6 +1,6 @@
 # HNU-SpeedyTurbo🚀
 
-<p align="center"><a href="README.zh-CN.md">简体中文</a>|<a href="README.en.md">English</a></p>
+<p align="center"><a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a></p>
 
 解决HNU的🌐有线或无线连接下，浏览器提示“🤷‍♀️找不到example.com的IP地址”的现象
 
